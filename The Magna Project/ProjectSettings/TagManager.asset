@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - platforms
+  - background_objects
+  - obstacles
   layers:
   - Default
   - TransparentFX
@@ -13,9 +16,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - ground
+  - background_object
+  - harmful obstacles
   - 
   - 
   - 
@@ -38,6 +41,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: back2
+    uniqueID: 2048262923
+    locked: 0
+  - name: back1
+    uniqueID: 2337112047
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

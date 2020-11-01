@@ -1,0 +1,3370 @@
+fileFormatVersion: 2
+guid: d67b9c6b97c784cb980aca45d66f149c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9054985712007738627
+    second: dr_doom_Idle1
+  - first:
+      213: -832566398953211110
+    second: dr_doom_Idle1
+  - first:
+      213: 3941809704623184638
+    second: dr_doom_Idle2
+  - first:
+      213: -758853799266389774
+    second: dr_doom_Idle3
+  - first:
+      213: 1228561636657075200
+    second: dr_doom_Idle4
+  - first:
+      213: -174902614312570985
+    second: dr_doom_Idle5
+  - first:
+      213: 6546503682881494863
+    second: dr_doom_5
+  - first:
+      213: 6307878075751757049
+    second: dr_doom_6
+  - first:
+      213: 4612905319095962578
+    second: dr_doom_walk1
+  - first:
+      213: 7884374844499695026
+    second: dr_doom_walk2
+  - first:
+      213: 5753193208098442101
+    second: dr_doom_walk3
+  - first:
+      213: 5075613046234201387
+    second: dr_doom_walk4
+  - first:
+      213: -8127965733366610868
+    second: dr_doom_walk5
+  - first:
+      213: -4018978861983993886
+    second: dr_doom_walk6
+  - first:
+      213: 2558304289736223412
+    second: dr_doom_walk7
+  - first:
+      213: 8741784201831508489
+    second: dr_doom_walk8
+  - first:
+      213: -6627549261513969790
+    second: dr_doom_melee1
+  - first:
+      213: 8753768358781483138
+    second: dr_doom_melee2
+  - first:
+      213: 3991990805415446418
+    second: dr_doom_melee3
+  - first:
+      213: -6396770978500608652
+    second: dr_doom_melee4
+  - first:
+      213: 871924344693719155
+    second: dr_doom_melee5
+  - first:
+      213: -2005685649185034548
+    second: dr_doom_melee6
+  - first:
+      213: 1416756559015806924
+    second: dr_doom_melee7
+  - first:
+      213: 6738708706169355268
+    second: dr_doom_melee8
+  - first:
+      213: -496937092849132532
+    second: dr_doom_jump1
+  - first:
+      213: 7888411748655154635
+    second: dr_doom_jump2
+  - first:
+      213: 7559345253203535272
+    second: dr_doom_jump3
+  - first:
+      213: -6061718705122370529
+    second: dr_doom_jump4
+  - first:
+      213: -7692654156559734980
+    second: dr_doom_27
+  - first:
+      213: -825066752377683107
+    second: dr_doom_28
+  - first:
+      213: 3708525216490161564
+    second: dr_doom_29
+  - first:
+      213: 4193922987704954085
+    second: dr_doom_30
+  - first:
+      213: 2997661878174411156
+    second: dr_doom_31
+  - first:
+      213: -5392002725449382477
+    second: dr_doom_32
+  - first:
+      213: 9094537012325458424
+    second: dr_doom_33
+  - first:
+      213: -6137706105996217566
+    second: dr_doom_34
+  - first:
+      213: 6303791646078847388
+    second: dr_doom_35
+  - first:
+      213: 982830117593738261
+    second: dr_doom_36
+  - first:
+      213: -1398386062101942723
+    second: dr_doom_37
+  - first:
+      213: -46280203553767139
+    second: dr_doom_38
+  - first:
+      213: -7536702480029826060
+    second: dr_doom_39
+  - first:
+      213: -1227171208705886988
+    second: dr_doom_40
+  - first:
+      213: -4075063591560497546
+    second: dr_doom_41
+  - first:
+      213: 5345915860620191446
+    second: dr_doom_42
+  - first:
+      213: 7453662120307198780
+    second: dr_doom_43
+  - first:
+      213: -149635036897019268
+    second: dr_doom_44
+  - first:
+      213: -992453724874139097
+    second: dr_doom_45
+  - first:
+      213: -5662383884562759551
+    second: dr_doom_46
+  - first:
+      213: -6062740701865702209
+    second: dr_doom_47
+  - first:
+      213: -4327979682209069738
+    second: dr_doom_48
+  - first:
+      213: -7351645262889894958
+    second: dr_doom_49
+  - first:
+      213: 4922840381218024034
+    second: dr_doom_50
+  - first:
+      213: 6507463024260213294
+    second: dr_doom_51
+  - first:
+      213: 6169736891450353711
+    second: dr_doom_52
+  - first:
+      213: 9065307688090125445
+    second: dr_doom_53
+  - first:
+      213: 501068119831203678
+    second: dr_doom_54
+  - first:
+      213: -5269831343396082836
+    second: dr_doom_55
+  - first:
+      213: -4962205042309087868
+    second: dr_doom_56
+  - first:
+      213: -5582115785018893998
+    second: dr_doom_57
+  - first:
+      213: -4169043467787747949
+    second: dr_doom_58
+  - first:
+      213: 3427912809161095089
+    second: dr_doom_59
+  - first:
+      213: 9155854839515342319
+    second: dr_doom_60
+  - first:
+      213: 1580374876995804845
+    second: dr_doom_61
+  - first:
+      213: -5854202118315110560
+    second: dr_doom_62
+  - first:
+      213: -8437093027056989676
+    second: dr_doom_63
+  - first:
+      213: 3623244920205543525
+    second: dr_doom_64
+  - first:
+      213: -5108783578810236833
+    second: dr_doom_65
+  - first:
+      213: 9182805528411588594
+    second: dr_doom_66
+  - first:
+      213: -3086190202966044969
+    second: dr_doom_67
+  - first:
+      213: -4880034581164332757
+    second: dr_doom_68
+  - first:
+      213: -7183792232622336708
+    second: dr_doom_69
+  - first:
+      213: -3797049973567754953
+    second: dr_doom_70
+  - first:
+      213: 8147291504759548104
+    second: dr_doom_71
+  - first:
+      213: -6892890971490589397
+    second: dr_doom_72
+  - first:
+      213: 2481091271154416181
+    second: dr_doom_73
+  - first:
+      213: -4564777567071755096
+    second: dr_doom_74
+  - first:
+      213: 433933725125547007
+    second: dr_doom_75
+  - first:
+      213: -7401813475160534691
+    second: dr_doom_76
+  - first:
+      213: 7583739616756292713
+    second: dr_doom_77
+  - first:
+      213: 925409914133978376
+    second: dr_doom_78
+  - first:
+      213: -490083933287481543
+    second: dr_doom_79
+  - first:
+      213: -1589954151789079750
+    second: dr_doom_80
+  - first:
+      213: 3492764421373143877
+    second: dr_doom_81
+  - first:
+      213: 8209158991057034630
+    second: dr_doom_82
+  - first:
+      213: -3150320778081460070
+    second: dr_doom_83
+  - first:
+      213: 5037569019808993166
+    second: dr_doom_84
+  - first:
+      213: -6982567906528466002
+    second: dr_doom_85
+  - first:
+      213: -5191187935035149689
+    second: dr_doom_86
+  - first:
+      213: -1892678759737975303
+    second: dr_doom_87
+  - first:
+      213: 7526569723424841351
+    second: dr_doom_88
+  - first:
+      213: -2773644838438172878
+    second: dr_doom_89
+  - first:
+      213: 1100539343226761558
+    second: dr_doom_90
+  - first:
+      213: 4387901867994317386
+    second: dr_doom_91
+  - first:
+      213: -5368687469247914037
+    second: dr_doom_92
+  - first:
+      213: -501120522205677568
+    second: dr_doom_93
+  - first:
+      213: 7100487197326527934
+    second: dr_doom_94
+  - first:
+      213: 8274808873026860648
+    second: dr_doom_95
+  - first:
+      213: 2442502007725725632
+    second: dr_doom_96
+  - first:
+      213: 3230630703568803472
+    second: dr_doom_97
+  - first:
+      213: -5184610539250010092
+    second: dr_doom_98
+  - first:
+      213: -1376118668670898623
+    second: dr_doom_99
+  - first:
+      213: 8836908603040229418
+    second: dr_doom_100
+  - first:
+      213: 2163488072781237163
+    second: dr_doom_101
+  - first:
+      213: -553020764765763167
+    second: dr_doom_102
+  - first:
+      213: 8050157968520914887
+    second: dr_doom_103
+  - first:
+      213: -7029089669193369664
+    second: dr_doom_104
+  - first:
+      213: 3518490446361548988
+    second: dr_doom_105
+  - first:
+      213: -2537882557293055091
+    second: dr_doom_106
+  - first:
+      213: 5362170769989232047
+    second: dr_doom_107
+  - first:
+      213: 4940403417330238467
+    second: dr_doom_108
+  - first:
+      213: -8834133057619899798
+    second: dr_doom_109
+  - first:
+      213: 6015732107423616750
+    second: dr_doom_110
+  - first:
+      213: -8272528339265099990
+    second: dr_doom_111
+  - first:
+      213: 8463543180990826901
+    second: dr_doom_112
+  - first:
+      213: 5930191457065297919
+    second: dr_doom_113
+  - first:
+      213: -7127081990026099831
+    second: dr_doom_114
+  - first:
+      213: -2900829583216789314
+    second: dr_doom_115
+  - first:
+      213: -7657841410641755308
+    second: dr_doom_116
+  - first:
+      213: 7565725736775048684
+    second: dr_doom_117
+  - first:
+      213: -832566398953211110
+    second: dr_doom_0
+  - first:
+      213: -7557628334042318963
+    second: dr_doom_1
+  - first:
+      213: 7168459351590134321
+    second: dr_doom_2
+  - first:
+      213: 7197726804377820741
+    second: dr_doom_3
+  - first:
+      213: 1768932590795312560
+    second: dr_doom_4
+  - first:
+      213: 280224636678517203
+    second: dr_doom_5
+  - first:
+      213: -4286530349398722603
+    second: dr_doom_6
+  - first:
+      213: -5465344880226700868
+    second: dr_doom_7
+  - first:
+      213: 1785311852558299829
+    second: dr_doom_8
+  - first:
+      213: -245207600053587129
+    second: dr_doom_9
+  - first:
+      213: 6512188319895385477
+    second: dr_doom_10
+  - first:
+      213: -6302726656863829469
+    second: dr_doom_11
+  - first:
+      213: -1656035217293978528
+    second: dr_doom_12
+  - first:
+      213: 1260948201443712755
+    second: dr_doom_13
+  - first:
+      213: 4149396372206542668
+    second: dr_doom_14
+  - first:
+      213: 5476037168398223028
+    second: dr_doom_15
+  - first:
+      213: 8434003071430424889
+    second: dr_doom_16
+  - first:
+      213: 1828615213989809803
+    second: dr_doom_17
+  - first:
+      213: -6696454932218309731
+    second: dr_doom_18
+  - first:
+      213: -782667813704212148
+    second: dr_doom_19
+  - first:
+      213: -8077504312240335224
+    second: dr_doom_20
+  - first:
+      213: 7973632379128080360
+    second: dr_doom_21
+  - first:
+      213: -3737500912588627492
+    second: dr_doom_22
+  - first:
+      213: -3429719259800598188
+    second: dr_doom_23
+  - first:
+      213: 5952169497848378820
+    second: dr_doom_24
+  - first:
+      213: -3518666824907605512
+    second: dr_doom_25
+  - first:
+      213: -1500416783903161182
+    second: dr_doom_26
+  - first:
+      213: 8008541962852140244
+    second: dr_doom_27
+  - first:
+      213: 6864514117719913940
+    second: dr_doom_28
+  - first:
+      213: 2695416173007008381
+    second: dr_doom_29
+  - first:
+      213: -3785690550910903855
+    second: dr_doom_30
+  - first:
+      213: 5149044296172873899
+    second: dr_doom_31
+  - first:
+      213: 9014689303721143743
+    second: dr_doom_32
+  - first:
+      213: -5759609077971134805
+    second: dr_doom_33
+  - first:
+      213: -6921309837705732547
+    second: dr_doom_34
+  - first:
+      213: 8342015943546733480
+    second: dr_doom_35
+  - first:
+      213: 4174555527265490226
+    second: dr_doom_36
+  - first:
+      213: -1078414426521692468
+    second: dr_doom_37
+  - first:
+      213: -5181142140111475586
+    second: dr_doom_38
+  - first:
+      213: 6593433214365274363
+    second: dr_doom_39
+  - first:
+      213: -8112192278190849919
+    second: dr_doom_40
+  - first:
+      213: -8288760946246177670
+    second: dr_doom_41
+  - first:
+      213: 8533450178338498743
+    second: dr_doom_42
+  - first:
+      213: -8702322130634281826
+    second: dr_doom_43
+  - first:
+      213: -8969147955614788918
+    second: dr_doom_44
+  - first:
+      213: -1507893458702916881
+    second: dr_doom_45
+  - first:
+      213: 9069436142871343756
+    second: dr_doom_46
+  - first:
+      213: 7410430099244755631
+    second: dr_doom_47
+  - first:
+      213: 5908445628261261140
+    second: dr_doom_48
+  - first:
+      213: 7826727815156095943
+    second: dr_doom_49
+  - first:
+      213: -7916704453387521485
+    second: dr_doom_50
+  - first:
+      213: -1734740125499651684
+    second: dr_doom_51
+  - first:
+      213: 7506937654044427037
+    second: dr_doom_52
+  - first:
+      213: -4981395115334953510
+    second: dr_doom_53
+  - first:
+      213: 2028983932525568758
+    second: dr_doom_54
+  - first:
+      213: -4340199391760876592
+    second: dr_doom_55
+  - first:
+      213: -7809080929524130216
+    second: dr_doom_56
+  - first:
+      213: -1673925169757185148
+    second: dr_doom_57
+  - first:
+      213: 8294119351519253193
+    second: dr_doom_58
+  - first:
+      213: -1631873550581583238
+    second: dr_doom_59
+  - first:
+      213: -2982761726098566723
+    second: dr_doom_60
+  - first:
+      213: 1777564588006271211
+    second: dr_doom_61
+  - first:
+      213: -2393056994895479917
+    second: dr_doom_62
+  - first:
+      213: 1407434750169192791
+    second: dr_doom_63
+  - first:
+      213: -3687061908907710963
+    second: dr_doom_64
+  - first:
+      213: 7005456929928871425
+    second: dr_doom_65
+  - first:
+      213: 3514112852667127396
+    second: dr_doom_66
+  - first:
+      213: 3355350408223758937
+    second: dr_doom_67
+  - first:
+      213: 3649476135878715320
+    second: dr_doom_68
+  - first:
+      213: -7030442678372001881
+    second: dr_doom_69
+  - first:
+      213: 3577018236510667356
+    second: dr_doom_70
+  - first:
+      213: -4246140041903149510
+    second: dr_doom_71
+  - first:
+      213: 7723101019403278357
+    second: dr_doom_72
+  - first:
+      213: 8534625209958660884
+    second: dr_doom_73
+  - first:
+      213: -5900292120024427088
+    second: dr_doom_74
+  - first:
+      213: -2988471813945828161
+    second: dr_doom_75
+  - first:
+      213: 1159973966790194579
+    second: dr_doom_76
+  - first:
+      213: 6090192142017919364
+    second: dr_doom_77
+  - first:
+      213: 5560777813529377721
+    second: dr_doom_78
+  - first:
+      213: 2798355390468843362
+    second: dr_doom_79
+  - first:
+      213: 5011177596419481302
+    second: dr_doom_80
+  - first:
+      213: -3913159563714319389
+    second: dr_doom_81
+  - first:
+      213: -8214955950421010895
+    second: dr_doom_82
+  - first:
+      213: 8314118486958954482
+    second: dr_doom_83
+  - first:
+      213: 167184921536753545
+    second: dr_doom_84
+  - first:
+      213: 3934150320402815532
+    second: dr_doom_85
+  - first:
+      213: -6596492789905533064
+    second: dr_doom_86
+  - first:
+      213: -2605286213661078035
+    second: dr_doom_87
+  - first:
+      213: -9142871814721075000
+    second: dr_doom_88
+  - first:
+      213: 4550763236744680723
+    second: dr_doom_89
+  - first:
+      213: -301125229244848665
+    second: dr_doom_90
+  - first:
+      213: -6605105124181737161
+    second: dr_doom_91
+  - first:
+      213: 2271527826188717378
+    second: dr_doom_92
+  - first:
+      213: -6947907332067218182
+    second: dr_doom_93
+  - first:
+      213: -2389669727715302830
+    second: dr_doom_94
+  - first:
+      213: 423495605479432991
+    second: dr_doom_95
+  - first:
+      213: 8029728750883390092
+    second: dr_doom_96
+  - first:
+      213: 534330149505755797
+    second: dr_doom_97
+  - first:
+      213: -3493987139501192614
+    second: dr_doom_98
+  - first:
+      213: -8248685914536229772
+    second: dr_doom_99
+  - first:
+      213: -6322300323640705160
+    second: dr_doom_100
+  - first:
+      213: -1158519214311150162
+    second: dr_doom_101
+  - first:
+      213: -2896895334696775160
+    second: dr_doom_102
+  - first:
+      213: -1864624686121943784
+    second: dr_doom_103
+  - first:
+      213: 7104221243614980108
+    second: dr_doom_104
+  - first:
+      213: 6223201995271197154
+    second: dr_doom_105
+  - first:
+      213: 5989860109618705623
+    second: dr_doom_106
+  - first:
+      213: 8787642323337604453
+    second: dr_doom_107
+  - first:
+      213: -3699159773402720177
+    second: dr_doom_108
+  - first:
+      213: -7784832857429511049
+    second: dr_doom_109
+  - first:
+      213: -509292197099599475
+    second: dr_doom_110
+  - first:
+      213: 9219174493221518349
+    second: dr_doom_111
+  - first:
+      213: 1789227440344041100
+    second: dr_doom_112
+  - first:
+      213: -1972747235615832938
+    second: dr_doom_113
+  - first:
+      213: -5674858851779780774
+    second: dr_doom_114
+  - first:
+      213: -2149001774001570191
+    second: dr_doom_115
+  - first:
+      213: -2131429813123952600
+    second: dr_doom_116
+  - first:
+      213: 3299009783480615365
+    second: dr_doom_117
+  - first:
+      213: 9054985712007738627
+    second: dr_doom_0
+  - first:
+      213: 3941809704623184638
+    second: dr_doom_1
+  - first:
+      213: -758853799266389774
+    second: dr_doom_2
+  - first:
+      213: 1228561636657075200
+    second: dr_doom_3
+  - first:
+      213: -174902614312570985
+    second: dr_doom_4
+  - first:
+      213: 4612905319095962578
+    second: dr_doom_7
+  - first:
+      213: 7884374844499695026
+    second: dr_doom_8
+  - first:
+      213: 5753193208098442101
+    second: dr_doom_9
+  - first:
+      213: 5075613046234201387
+    second: dr_doom_10
+  - first:
+      213: -8127965733366610868
+    second: dr_doom_11
+  - first:
+      213: -4018978861983993886
+    second: dr_doom_12
+  - first:
+      213: 2558304289736223412
+    second: dr_doom_13
+  - first:
+      213: 8741784201831508489
+    second: dr_doom_14
+  - first:
+      213: -6627549261513969790
+    second: dr_doom_15
+  - first:
+      213: 8753768358781483138
+    second: dr_doom_16
+  - first:
+      213: 3991990805415446418
+    second: dr_doom_17
+  - first:
+      213: -6396770978500608652
+    second: dr_doom_18
+  - first:
+      213: 871924344693719155
+    second: dr_doom_19
+  - first:
+      213: -2005685649185034548
+    second: dr_doom_20
+  - first:
+      213: 1416756559015806924
+    second: dr_doom_21
+  - first:
+      213: 6738708706169355268
+    second: dr_doom_22
+  - first:
+      213: -496937092849132532
+    second: dr_doom_23
+  - first:
+      213: 7888411748655154635
+    second: dr_doom_24
+  - first:
+      213: 7559345253203535272
+    second: dr_doom_25
+  - first:
+      213: -6061718705122370529
+    second: dr_doom_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dr_doom_5
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 4358
+        width: 81
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1398682de83e300800000000000000
+      internalID: 280224636678517203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_6
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4374
+        width: 286
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77825bb5f2384c0800000000000000
+      internalID: -4286530349398722603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_27
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3047
+        width: 295
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48c90fb7e042f60800000000000000
+      internalID: 8008541962852140244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_28
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 3047
+        width: 279
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d579566837a34f50800000000000000
+      internalID: 6864514117719913940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_29
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 3047
+        width: 321
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72fce97aba086520800000000000000
+      internalID: 2695416173007008381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_30
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 3257
+        width: 58
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9176b5086867bc0800000000000000
+      internalID: -3785690550910903855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_31
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 3257
+        width: 116
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a22ea184157740800000000000000
+      internalID: 5149044296172873899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_32
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 3060
+        width: 119
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdefcce82c9a1d70800000000000000
+      internalID: 9014689303721143743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_33
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 3107
+        width: 105
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba65a6e2f02c110b0800000000000000
+      internalID: -5759609077971134805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2573
+        width: 270
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e122f8f5192ff90800000000000000
+      internalID: -6921309837705732547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2573
+        width: 268
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a38fb18d4bc4c370800000000000000
+      internalID: 8342015943546733480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_36
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2573
+        width: 268
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359dc162200fe930800000000000000
+      internalID: 4174555527265490226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2587
+        width: 295
+        height: 395
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69482fac3b801f0800000000000000
+      internalID: -1078414426521692468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_38
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2589
+        width: 315
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c29d7aca2e818b0800000000000000
+      internalID: -5181142140111475586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_39
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2594
+        width: 391
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf011803394908b50800000000000000
+      internalID: 6593433214365274363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_40
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2594
+        width: 393
+        height: 335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18084cc6a14bb6f80800000000000000
+      internalID: -8112192278190849919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2203
+        width: 205
+        height: 339
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7caddac5d768fc80800000000000000
+      internalID: -8288760946246177670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2203
+        width: 196
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82c5c99b7ec6670800000000000000
+      internalID: 8533450178338498743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_43
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2203
+        width: 344
+        height: 326
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce58a01242b3780800000000000000
+      internalID: -8702322130634281826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2236
+        width: 266
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2d8a7747f278380800000000000000
+      internalID: -8969147955614788918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_45
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2250
+        width: 329
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a0e273e2e21be0800000000000000
+      internalID: -1507893458702916881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_46
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2220
+        width: 315
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827fe8be1c1ddd70800000000000000
+      internalID: 9069436142871343756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_47
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2256
+        width: 360
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa852c9e227d660800000000000000
+      internalID: 7410430099244755631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_48
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2274
+        width: 360
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd83f9ef30ff150800000000000000
+      internalID: 5908445628261261140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1843
+        width: 353
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5c08ea7f1e9c60800000000000000
+      internalID: 7826727815156095943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_50
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1843
+        width: 333
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33275108e37322290800000000000000
+      internalID: -7916704453387521485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1843
+        width: 301
+        height: 322
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990af10c07fce7e0800000000000000
+      internalID: -1734740125499651684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_52
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1843
+        width: 297
+        height: 335
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13825cd5000e2860800000000000000
+      internalID: 7506937654044427037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_53
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1843
+        width: 246
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5189009878edab0800000000000000
+      internalID: -4981395115334953510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_54
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1843
+        width: 253
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26929f226682c10800000000000000
+      internalID: 2028983932525568758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_55
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1843
+        width: 199
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbf9b706a384c3c0800000000000000
+      internalID: -4340199391760876592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_56
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1843
+        width: 199
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85edf65d44290a390800000000000000
+      internalID: -7809080929524130216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_57
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1774
+        width: 49
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b990c4de505c8e0800000000000000
+      internalID: -1673925169757185148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1338
+        width: 152
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29ff72b91aa1370800000000000000
+      internalID: 8294119351519253193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_59
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1338
+        width: 158
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ba3bd6ab6a59e0800000000000000
+      internalID: -1631873550581583238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1338
+        width: 154
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db19342730a1b96d0800000000000000
+      internalID: -2982761726098566723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_61
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1338
+        width: 152
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86d69239d2ba810800000000000000
+      internalID: 1777564588006271211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_62
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1658
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bbdf397572aced0800000000000000
+      internalID: -2393056994895479917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_63
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1338
+        width: 154
+        height: 353
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7591068c276388310800000000000000
+      internalID: 1407434750169192791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_64
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1338
+        width: 208
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06aeae8abce4dcc0800000000000000
+      internalID: -3687061908907710963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_65
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1477
+        width: 516
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e75b516f1683160800000000000000
+      internalID: 7005456929928871425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1358
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466dbdb5503a4c030800000000000000
+      internalID: 3514112852667127396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_67
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1356
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a932b3b69909e20800000000000000
+      internalID: 3355350408223758937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1041
+        width: 1425
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e057b53b85a230800000000000000
+      internalID: 3649476135878715320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_69
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1233
+        width: 277
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a714e502a9de6e90800000000000000
+      internalID: -7030442678372001881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_70
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1231
+        width: 279
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52005e522f14a130800000000000000
+      internalID: 3577018236510667356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_71
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1092
+        width: 281
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eeccff02ea215c0800000000000000
+      internalID: -4246140041903149510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_72
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1099
+        width: 369
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5185df95577fd2b60800000000000000
+      internalID: 7723101019403278357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 719
+        width: 193
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bfdaaf864117670800000000000000
+      internalID: 8534625209958660884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 719
+        width: 185
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b558e2f393fd1ea0800000000000000
+      internalID: -5900292120024427088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_75
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 719
+        width: 188
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdd7408b0d686d0800000000000000
+      internalID: -2988471813945828161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_76
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 827
+        width: 152
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395fa3f4d2e091010800000000000000
+      internalID: 1159973966790194579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_77
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 827
+        width: 146
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4897ad66c75b48450800000000000000
+      internalID: 6090192142017919364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_78
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 827
+        width: 163
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbba4a85f9db2d40800000000000000
+      internalID: 5560777813529377721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_79
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 827
+        width: 152
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267e13cb661c5d620800000000000000
+      internalID: 2798355390468843362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_80
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 827
+        width: 147
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9afc39774b8540800000000000000
+      internalID: 5011177596419481302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_81
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 827
+        width: 149
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba26f0c1aa1b9c0800000000000000
+      internalID: -3913159563714319389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_82
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 833
+        width: 147
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369ca9761d9efd80800000000000000
+      internalID: -8214955950421010895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_83
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 827
+        width: 151
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f752bbb6bea16370800000000000000
+      internalID: 8314118486958954482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_84
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 827
+        width: 159
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98feff3ecc5f15200800000000000000
+      internalID: 167184921536753545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_85
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 827
+        width: 150
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a59945fd8e89630800000000000000
+      internalID: 3934150320402815532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_86
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 766
+        width: 375
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877514ed1cc8474a0800000000000000
+      internalID: -6596492789905533064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_87
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 777
+        width: 89
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded4288fdf928dbd0800000000000000
+      internalID: -2605286213661078035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_88
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 791
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c88e98868efd1180800000000000000
+      internalID: -9142871814721075000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 550
+        width: 167
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d2178d0f872f30800000000000000
+      internalID: 4550763236744680723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_90
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 550
+        width: 166
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e3fd033032dbf0800000000000000
+      internalID: -301125229244848665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_91
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 550
+        width: 165
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731090982e3f554a0800000000000000
+      internalID: -6605105124181737161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_92
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 550
+        width: 166
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc469d586168f10800000000000000
+      internalID: 2271527826188717378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_93
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 550
+        width: 172
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2dc3d713149f90800000000000000
+      internalID: -6947907332067218182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_94
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 550
+        width: 172
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252660d2b0036ded0800000000000000
+      internalID: -2389669727715302830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_95
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 550
+        width: 172
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f136a88620f80e500800000000000000
+      internalID: 423495605479432991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_96
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 550
+        width: 176
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82452f61c35f6f60800000000000000
+      internalID: 8029728750883390092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_97
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 679
+        width: 364
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6212a0725a6700800000000000000
+      internalID: 534330149505755797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_98
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 550
+        width: 145
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a8f34653dd28fc0800000000000000
+      internalID: -3493987139501192614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_99
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 550
+        width: 151
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474cc483dd7c68d80800000000000000
+      internalID: -8248685914536229772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_100
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 558
+        width: 364
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ffe064a5da248a0800000000000000
+      internalID: -6322300323640705160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 340
+        width: 192
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade485a9ec1cefe0800000000000000
+      internalID: -1158519214311150162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_102
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 340
+        width: 193
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80299ef9a092cc7d0800000000000000
+      internalID: -2896895334696775160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_103
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 340
+        width: 188
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81df6482ab58f16e0800000000000000
+      internalID: -1864624686121943784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_104
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 342
+        width: 192
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08647fc493479260800000000000000
+      internalID: 7104221243614980108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_105
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 342
+        width: 145
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e154a52e314d5650800000000000000
+      internalID: 6223201995271197154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_106
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 440
+        width: 380
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4fa18b802402350800000000000000
+      internalID: 5989860109618705623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_107
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 319
+        width: 364
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de9b7522af3f970800000000000000
+      internalID: 8787642323337604453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_108
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 190
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f489aeaf8c1f9acc0800000000000000
+      internalID: -3699159773402720177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_109
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 78
+        width: 166
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ff1113c7b6f390800000000000000
+      internalID: -7784832857429511049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4
+        width: 96
+        height: 277
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890001f171aee8f0800000000000000
+      internalID: -509292197099599475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_111
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 7
+        width: 112
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7fc63b5611ff70800000000000000
+      internalID: 9219174493221518349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_112
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 16
+        width: 74
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86861490ec94d810800000000000000
+      internalID: 1789227440344041100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_113
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 125
+        width: 181
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940c7d57d46f94e0800000000000000
+      internalID: -1972747235615832938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_114
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 76
+        width: 205
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f5f25e0f9de31b0800000000000000
+      internalID: -5674858851779780774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_115
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 94
+        width: 201
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eb3feb5463d22e0800000000000000
+      internalID: -2149001774001570191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_116
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 89
+        width: 192
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d115b0e3ab62e0800000000000000
+      internalID: -2131429813123952600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_117
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 179
+        width: 366
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c186ee4bef68cd20800000000000000
+      internalID: 3299009783480615365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4206
+        width: 194
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305757a9785c9ad70800000000000000
+      internalID: 9054985712007738627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4206
+        width: 226
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9040ba0f14b630800000000000000
+      internalID: 3941809704623184638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4206
+        width: 244
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0754a7d720875f0800000000000000
+      internalID: -758853799266389774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4206
+        width: 241
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041e91ac4abc0110800000000000000
+      internalID: 1228561636657075200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 4206
+        width: 205
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fac9bbffe929df0800000000000000
+      internalID: -174902614312570985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3838
+        width: 248
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db893f82f4540040800000000000000
+      internalID: 4612905319095962578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3838
+        width: 299
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51e6ad52dea6d60800000000000000
+      internalID: 7884374844499695026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_9
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3838
+        width: 282
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc5e4bdb277df40800000000000000
+      internalID: 5753193208098442101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_10
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3838
+        width: 259
+        height: 357
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2db02e7c23307640800000000000000
+      internalID: 5075613046234201387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_11
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3838
+        width: 248
+        height: 357
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44c224ba3aa33f80800000000000000
+      internalID: -8127965733366610868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_12
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 3838
+        width: 221
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efe3abb408b938c0800000000000000
+      internalID: -4018978861983993886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_13
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 3838
+        width: 239
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae511723ce08320800000000000000
+      internalID: 2558304289736223412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_14
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3838
+        width: 225
+        height: 351
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae9456a6e015970800000000000000
+      internalID: 8741784201831508489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3420
+        width: 264
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fae089f073604a0800000000000000
+      internalID: -6627549261513969790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3420
+        width: 233
+        height: 346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288793f51f1ab7970800000000000000
+      internalID: 8753768358781483138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3420
+        width: 320
+        height: 346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c96fac76666730800000000000000
+      internalID: 3991990805415446418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3420
+        width: 219
+        height: 355
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d71f4cfaa1a37a0800000000000000
+      internalID: -6396770978500608652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_19
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3431
+        width: 174
+        height: 344
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3700c746292b91c00800000000000000
+      internalID: 871924344693719155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_20
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3433
+        width: 217
+        height: 382
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2a35578f5a24e0800000000000000
+      internalID: -2005685649185034548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_21
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 3427
+        width: 395
+        height: 321
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78759859459a310800000000000000
+      internalID: 1416756559015806924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_22
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 3420
+        width: 301
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c7e047dd3b48d50800000000000000
+      internalID: 6738708706169355268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3047
+        width: 284
+        height: 362
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1301d8568a19f0800000000000000
+      internalID: -496937092849132532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3049
+        width: 275
+        height: 306
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5cb98d0b4497d60800000000000000
+      internalID: 7888411748655154635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3047
+        width: 268
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56bb7e47038e860800000000000000
+      internalID: 7559345253203535272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr_doom_26
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3047
+        width: 254
+        height: 286
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c17dc34f270eba0800000000000000
+      internalID: -6061718705122370529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

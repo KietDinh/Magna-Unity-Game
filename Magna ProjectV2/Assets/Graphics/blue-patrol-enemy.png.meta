@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: ec4a47e48bd1f460b8918f4baf7cd0bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -378514640132482963
+    second: blue-patrol-enemy_0
+  - first:
+      213: 2614015869347706930
+    second: blue-patrol-enemy_1
+  - first:
+      213: -8844590143552604055
+    second: blue-patrol-enemy_2
+  - first:
+      213: 8073542104687744334
+    second: blue-patrol-enemy_3
+  - first:
+      213: -5019187551293283024
+    second: blue-patrol-enemy_4
+  - first:
+      213: -2957833101765477375
+    second: blue-patrol-enemy_5
+  - first:
+      213: 9180696556897640196
+    second: blue-patrol-enemy_6
+  - first:
+      213: 782139170134831450
+    second: blue-patrol-enemy_7
+  - first:
+      213: 5213370347484922405
+    second: blue-patrol-enemy_8
+  - first:
+      213: -5304313814678351061
+    second: blue-patrol-enemy_9
+  - first:
+      213: -7027681947993997283
+    second: blue-patrol-enemy_10
+  - first:
+      213: -8356425401111055845
+    second: blue-patrol-enemy_11
+  - first:
+      213: 5036832332045777165
+    second: blue-patrol-enemy_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue-patrol-enemy_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 240
+        width: 47
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685e94b0fe3fbaf0800000000000000
+      internalID: -378514640132482963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 238
+        width: 51
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23834b16599d64420800000000000000
+      internalID: 2614015869347706930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 236
+        width: 60
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96830a50024b14580800000000000000
+      internalID: -8844590143552604055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 236
+        width: 60
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45921dc4cbfa0070800000000000000
+      internalID: 8073542104687744334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 237
+        width: 60
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e910d383485ab0800000000000000
+      internalID: -5019187551293283024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 238
+        width: 60
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c7068177aa3f6d0800000000000000
+      internalID: -2957833101765477375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 51
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f198880e2686f70800000000000000
+      internalID: 9180696556897640196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 47
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513ec86e67bada00800000000000000
+      internalID: 782139170134831450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 54
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c46c95bc995840800000000000000
+      internalID: 5213370347484922405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 103
+        width: 75
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2356e260ba4366b0800000000000000
+      internalID: -5304313814678351061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 100
+        width: 86
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d108467a088a87e90800000000000000
+      internalID: -7027681947993997283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 77
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1279b63f53080c80800000000000000
+      internalID: -8356425401111055845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-patrol-enemy_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 77
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097ac8d15c66e540800000000000000
+      internalID: 5036832332045777165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

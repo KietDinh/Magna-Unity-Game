@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 6e5e48802e8777c4294260c18ce1917c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1016266202057417672
+    second: SeungFlying_0
+  - first:
+      213: -5329558585437118319
+    second: SeungFlying_1
+  - first:
+      213: -991974563443631142
+    second: SeungFlying_2
+  - first:
+      213: -52129723306603324
+    second: SeungFlying_3
+  - first:
+      213: -5730230930471728271
+    second: SeungFlying_4
+  - first:
+      213: 5403977798024712186
+    second: SeungFlying_5
+  - first:
+      213: -2966263070777844166
+    second: SeungFlying_5
+  - first:
+      213: 7581613390513826294
+    second: SeungFlying_7
+  - first:
+      213: -6332886120849923081
+    second: SeungFlying_8
+  - first:
+      213: 511409546481096088
+    second: SeungFlying_3
+  - first:
+      213: -3311109158162086934
+    second: SeungFlying_4
+  - first:
+      213: 8355744117434725783
+    second: SeungFlying_11
+  - first:
+      213: -6635168186271972551
+    second: SeungFlying_1
+  - first:
+      213: -1118007674905110226
+    second: SeungFlying_2
+  - first:
+      213: -6742457520396296288
+    second: SeungFlying_6
+  - first:
+      213: -236822811302256744
+    second: SeungFlying_Damage1
+  - first:
+      213: -4297165562917165898
+    second: SeungFlying_Damage2
+  - first:
+      213: 890137681134991581
+    second: SeungFlying_Damage3
+  - first:
+      213: -855103015575070910
+    second: SeungFlying_Damage4
+  - first:
+      213: 831664392158502271
+    second: SeungFlying_Bullet1
+  - first:
+      213: 1074762820598247000
+    second: SeungFlying_Bullet2
+  - first:
+      213: -4282438583152752502
+    second: SeungFlying_Bullet3
+  - first:
+      213: 7123053522381904127
+    second: SeungFlying_Bullet4
+  - first:
+      213: -3255607208755108958
+    second: SeungFlying_Death1
+  - first:
+      213: -6178920700334550788
+    second: SeungFlying_Death2
+  - first:
+      213: -7732760483463576272
+    second: SeungFlying_Death13
+  - first:
+      213: -4440299876636026327
+    second: SeungFlying_Death4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeungFlying_5
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 370
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e5debf377b5d6d0800000000000000
+      internalID: -2966263070777844166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 369
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895dfb0e544e81700800000000000000
+      internalID: 511409546481096088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 371
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c43f73c39c02d0800000000000000
+      internalID: -3311109158162086934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 372
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933494070b52be3a0800000000000000
+      internalID: -6635168186271972551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 371
+        width: 131
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29de1171f90c70f0800000000000000
+      internalID: -1118007674905110226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 367
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1e97bb9afd62a0800000000000000
+      internalID: -6742457520396296288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Damage1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 225
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9e9968e2a6bcf0800000000000000
+      internalID: -236822811302256744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Damage2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 133
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e74910b66d54c0800000000000000
+      internalID: -4297165562917165898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Damage3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 224
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bd3d31876a5c00800000000000000
+      internalID: 890137681134991581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Damage4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 225
+        width: 133
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247584e76501224f0800000000000000
+      internalID: -855103015575070910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Bullet1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd2fabb5aaa8b00800000000000000
+      internalID: 831664392158502271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Bullet2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 261
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e2e8b47135aee00800000000000000
+      internalID: 1074762820598247000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Bullet3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 260
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c0c64cc8b194c0800000000000000
+      internalID: -4282438583152752502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Bullet4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 257
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81ba5607b2ad260800000000000000
+      internalID: 7123053522381904127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Death1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 134
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a363f91e72c1d2d0800000000000000
+      internalID: -3255607208755108958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Death2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 66
+        width: 122
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf050414c50104aa0800000000000000
+      internalID: -6178920700334550788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Death13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 78
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035c9f96f47bfa490800000000000000
+      internalID: -7732760483463576272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeungFlying_Death4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 80
+        width: 133
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a16e4b9c2e062c0800000000000000
+      internalID: -4440299876636026327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

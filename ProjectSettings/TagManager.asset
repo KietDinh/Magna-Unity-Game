@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - Bullet
+  - Ground
+  - Music
+  - Bullet Destroyed
+  - Boss Bullet
+  - Boss Shield
+  - Grenade
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - CameraBounds
+  - Background
+  - 
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG5
+    uniqueID: 1166464497
+    locked: 0
+  - name: BG4
+    uniqueID: 371795967
+    locked: 0
+  - name: BG3
+    uniqueID: 3377807683
+    locked: 0
+  - name: BG2
+    uniqueID: 2651567371
+    locked: 0
+  - name: BG1
+    uniqueID: 2318942629
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

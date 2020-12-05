@@ -1,0 +1,3130 @@
+fileFormatVersion: 2
+guid: 31829eea1a4aa4c979c67056894c7b05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 506786681957397327
+    second: Magna_sheet 2_0
+  - first:
+      213: 2959644382028509278
+    second: Magna_sheet 2_1
+  - first:
+      213: -7300284082845598255
+    second: Magna_sheet 2_2
+  - first:
+      213: 4560593267956529650
+    second: Magna_sheet 2_3
+  - first:
+      213: -892714814388219625
+    second: Magna_sheet 2_4
+  - first:
+      213: 2458238101949209508
+    second: Magna_sheet 2_5
+  - first:
+      213: -3679108277608008103
+    second: Magna_sheet 2_6
+  - first:
+      213: -8286037058825078384
+    second: Magna_sheet 2_7
+  - first:
+      213: -1798253622002743346
+    second: Magna_sheet 2_8
+  - first:
+      213: -5581515961138023576
+    second: Magna_sheet 2_9
+  - first:
+      213: -1689975898813876548
+    second: Magna_sheet 2_10
+  - first:
+      213: -8037934498238420834
+    second: Magna_sheet 2_11
+  - first:
+      213: 4956834756774821565
+    second: Magna_sheet 2_12
+  - first:
+      213: -2792787747271708252
+    second: Magna_sheet 2_13
+  - first:
+      213: -6542051983165139323
+    second: Magna_sheet 2_14
+  - first:
+      213: -7706204254806838336
+    second: Magna_sheet 2_15
+  - first:
+      213: 6171889537555890932
+    second: Magna_sheet 2_16
+  - first:
+      213: 8746801892219842736
+    second: Magna_sheet 2_17
+  - first:
+      213: -265472045314503689
+    second: Magna_sheet 2_18
+  - first:
+      213: 2286770168479803725
+    second: Magna_sheet 2_19
+  - first:
+      213: 7500742890501767236
+    second: Magna_sheet 2_20
+  - first:
+      213: 5254936693913805585
+    second: Magna_sheet 2_21
+  - first:
+      213: 5201689414417477430
+    second: Magna_sheet 2_22
+  - first:
+      213: 4496738473664297057
+    second: Magna_sheet 2_23
+  - first:
+      213: 8512761235018256741
+    second: Magna_sheet 2_24
+  - first:
+      213: -9084485660967548621
+    second: Magna_sheet 2_25
+  - first:
+      213: -65689646378253116
+    second: Magna_sheet 2_26
+  - first:
+      213: -3518780613385516965
+    second: Magna_sheet 2_27
+  - first:
+      213: 7560567378792736134
+    second: Magna_sheet 2_28
+  - first:
+      213: -3557143456248704245
+    second: Magna_sheet 2_29
+  - first:
+      213: 2696793261157717130
+    second: Magna_sheet 2_30
+  - first:
+      213: 480978933649661958
+    second: Magna_sheet 2_31
+  - first:
+      213: 505071044446503321
+    second: Magna_sheet 2_32
+  - first:
+      213: -3669738966644447582
+    second: Magna_sheet 2_33
+  - first:
+      213: -9082777661853867249
+    second: Magna_sheet 2_34
+  - first:
+      213: -5449724795606679647
+    second: Magna_sheet 2_35
+  - first:
+      213: 9166980563857912532
+    second: Magna_sheet 2_36
+  - first:
+      213: 351952787541725984
+    second: Magna_sheet 2_37
+  - first:
+      213: 3488276819898190578
+    second: Magna_sheet 2_38
+  - first:
+      213: 4532044133110042981
+    second: Magna_sheet 2_39
+  - first:
+      213: -8289084930668996757
+    second: Magna_sheet 2_40
+  - first:
+      213: -3525452233672038475
+    second: Magna_sheet 2_41
+  - first:
+      213: 5654187394549044271
+    second: Magna_sheet 2_42
+  - first:
+      213: -1742560387858787897
+    second: Magna_sheet 2_43
+  - first:
+      213: 4974552267168684488
+    second: Magna_sheet 2_44
+  - first:
+      213: -8509753761140680136
+    second: Magna_sheet 2_45
+  - first:
+      213: -34342472752472378
+    second: Magna_sheet 2_46
+  - first:
+      213: 2495662040453611453
+    second: Magna_sheet 2_47
+  - first:
+      213: 7630413049387164328
+    second: Magna_sheet 2_48
+  - first:
+      213: -5129885961559076327
+    second: Magna_sheet 2_49
+  - first:
+      213: -2810679557438355320
+    second: Magna_sheet 2_50
+  - first:
+      213: 5395319765067615584
+    second: Magna_sheet 2_51
+  - first:
+      213: -6458642262032682966
+    second: Magna_sheet 2_52
+  - first:
+      213: -5050024278766801871
+    second: Magna_sheet 2_53
+  - first:
+      213: -1485410385558995909
+    second: Magna_sheet 2_54
+  - first:
+      213: -757808959358031921
+    second: Magna_sheet 2_55
+  - first:
+      213: -1453317694093290102
+    second: Magna_sheet 2_56
+  - first:
+      213: -3070295682940137022
+    second: Magna_sheet 2_57
+  - first:
+      213: 4010897799061567403
+    second: Magna_sheet 2_58
+  - first:
+      213: 8491448661917179642
+    second: Magna_sheet 2_59
+  - first:
+      213: -8297837274084032119
+    second: Magna_sheet 2_60
+  - first:
+      213: -2801657435975618357
+    second: Magna_sheet 2_61
+  - first:
+      213: -3303776112910438144
+    second: Magna_sheet 2_62
+  - first:
+      213: 3672672510753029124
+    second: Magna_sheet 2_63
+  - first:
+      213: -9125932967717830328
+    second: Magna_sheet 2_64
+  - first:
+      213: 5614242199737033455
+    second: Magna_sheet 2_65
+  - first:
+      213: -2177847022592688452
+    second: Magna_sheet 2_66
+  - first:
+      213: 6236919179859579979
+    second: Magna_sheet 2_67
+  - first:
+      213: -7291402218016716211
+    second: Magna_sheet 2_68
+  - first:
+      213: 1986484430196159297
+    second: Magna_sheet 2_69
+  - first:
+      213: -1149969233771410552
+    second: Magna_sheet 2_70
+  - first:
+      213: -2348096708319978750
+    second: Magna_sheet 2_71
+  - first:
+      213: -2248552244820496890
+    second: Magna_sheet 2_72
+  - first:
+      213: -2834913203602137339
+    second: Magna_sheet 2_73
+  - first:
+      213: 4574122544607532178
+    second: Magna_sheet 2_74
+  - first:
+      213: -6334710174570668575
+    second: Magna_sheet 2_75
+  - first:
+      213: -6901773652871030716
+    second: Magna_sheet 2_76
+  - first:
+      213: -2772487010669304799
+    second: Magna_sheet 2_77
+  - first:
+      213: 3530855479669129538
+    second: Magna_sheet 2_78
+  - first:
+      213: -5616022922435575715
+    second: Magna_sheet 2_79
+  - first:
+      213: 3954322798170759381
+    second: Magna_sheet 2_80
+  - first:
+      213: 4364506305787208362
+    second: Magna_sheet 2_81
+  - first:
+      213: -8876007455126735219
+    second: Magna_sheet 2_82
+  - first:
+      213: -5488584261865525939
+    second: Magna_sheet 2_83
+  - first:
+      213: 3491570178300767181
+    second: Magna_sheet 2_84
+  - first:
+      213: -1385484424623813
+    second: Magna_sheet 2_85
+  - first:
+      213: -6011124748174199552
+    second: Magna_sheet 2_86
+  - first:
+      213: 4525930217153892143
+    second: Magna_sheet 2_87
+  - first:
+      213: -3312555476423926283
+    second: Magna_sheet 2_88
+  - first:
+      213: -1047080440471279671
+    second: Magna_sheet 2_89
+  - first:
+      213: 9212110772039872552
+    second: Magna_sheet 2_90
+  - first:
+      213: -3856453077769624747
+    second: Magna_sheet 2_91
+  - first:
+      213: 2852126063371997034
+    second: Magna_sheet 2_92
+  - first:
+      213: 1888042299214835162
+    second: Magna_sheet 2_93
+  - first:
+      213: -4133037924837573558
+    second: Magna_sheet 2_94
+  - first:
+      213: 4263470641784574849
+    second: Magna_sheet 2_95
+  - first:
+      213: 8275266612504845031
+    second: Magna_sheet 2_96
+  - first:
+      213: 947964254070704178
+    second: Magna_sheet 2_97
+  - first:
+      213: 555088484358346515
+    second: Magna_sheet 2_98
+  - first:
+      213: 6833803439472284669
+    second: Magna_sheet 2_99
+  - first:
+      213: 2793469185438727084
+    second: Magna_sheet 2_100
+  - first:
+      213: 998930271691363454
+    second: Magna_sheet 2_101
+  - first:
+      213: -1399297959570593795
+    second: Magna_sheet 2_102
+  - first:
+      213: -7620977658094866827
+    second: Magna_sheet 2_103
+  - first:
+      213: 8138159652292781039
+    second: Magna_sheet 2_104
+  - first:
+      213: 507614000933796374
+    second: Magna_sheet 2_105
+  - first:
+      213: -3492410925624346275
+    second: Magna_sheet 2_106
+  - first:
+      213: -3191142493610338941
+    second: Magna_sheet 2_107
+  - first:
+      213: 1675977270523928907
+    second: Magna_sheet 2_108
+  - first:
+      213: -4371926883830881665
+    second: Magna_sheet 2_109
+  - first:
+      213: -3302386767077569480
+    second: Magna_sheet 2_110
+  - first:
+      213: -8549839821416541958
+    second: Magna_sheet 2_111
+  - first:
+      213: 5911624287435149258
+    second: Magna_sheet 2_112
+  - first:
+      213: 8378279487311682471
+    second: Magna_sheet 2_113
+  - first:
+      213: 6091216905033069265
+    second: Magna_sheet 2_114
+  - first:
+      213: -2472963587954869099
+    second: Magna_sheet 2_115
+  - first:
+      213: 1692221699205142649
+    second: Magna_sheet 2_116
+  - first:
+      213: -1917682910483612149
+    second: Magna_sheet 2_117
+  - first:
+      213: -739213192388683303
+    second: Magna_sheet 2_118
+  - first:
+      213: 3515886051829065405
+    second: Magna_sheet 2_119
+  - first:
+      213: -751501980735023227
+    second: Magna_sheet 2_120
+  - first:
+      213: -9137119606642335882
+    second: Magna_sheet 2_121
+  - first:
+      213: -3659837106925345971
+    second: Magna_sheet 2_122
+  - first:
+      213: -6376486769110558699
+    second: Magna_sheet 2_123
+  - first:
+      213: -4536234260525295886
+    second: Magna_sheet 2_124
+  - first:
+      213: -6250985083861685342
+    second: Magna_sheet 2_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magna_sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1870
+        width: 39
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4338fa5dc7780700800000000000000
+      internalID: 506786681957397327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1749
+        width: 30
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503a4472e4c21920800000000000000
+      internalID: 2959644382028509278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1749
+        width: 39
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddbc822e4e20ba90800000000000000
+      internalID: -7300284082845598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1749
+        width: 39
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f936950a6b7a4f30800000000000000
+      internalID: 4560593267956529650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1749
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71159aa2b907c93f0800000000000000
+      internalID: -892714814388219625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1749
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5308878a6d1220800000000000000
+      internalID: 2458238101949209508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1749
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b9f6a38e21fcc0800000000000000
+      internalID: -3679108277608008103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1749
+        width: 34
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09932014235120d80800000000000000
+      internalID: -8286037058825078384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1749
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7877cbbd15b07e0800000000000000
+      internalID: -1798253622002743346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1749
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f1343ec87a82b0800000000000000
+      internalID: -5581515961138023576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1749
+        width: 36
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63a38bfdffb88e0800000000000000
+      internalID: -1689975898813876548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1749
+        width: 36
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9824a02925837090800000000000000
+      internalID: -8037934498238420834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1748
+        width: 36
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe7fd7e2f63ac440800000000000000
+      internalID: 4956834756774821565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1749
+        width: 35
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a17ec637560e39d0800000000000000
+      internalID: -2792787747271708252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1622
+        width: 35
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865d41f166f535a0800000000000000
+      internalID: -6542051983165139323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1622
+        width: 35
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c372a93f001e0590800000000000000
+      internalID: -7706204254806838336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1622
+        width: 35
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f208f695d4f6a550800000000000000
+      internalID: 6171889537555890932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1622
+        width: 35
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07a7a7af1e26970800000000000000
+      internalID: 8746801892219842736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1622
+        width: 36
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8b31d49ad05cf0800000000000000
+      internalID: -265472045314503689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1622
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e2373a5d3cbf10800000000000000
+      internalID: 2286770168479803725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1622
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44005e31bedf71860800000000000000
+      internalID: 7500742890501767236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1622
+        width: 34
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e5edc4194de840800000000000000
+      internalID: 5254936693913805585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1622
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f634276fc103840800000000000000
+      internalID: 5201689414417477430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1622
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168b79a21df976e30800000000000000
+      internalID: 4496738473664297057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1622
+        width: 37
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5619afe9d37632670800000000000000
+      internalID: 8512761235018256741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1622
+        width: 39
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33946ea4c6c6de180800000000000000
+      internalID: -9084485660967548621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1622
+        width: 39
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4043a5d9f961ff0800000000000000
+      internalID: -65689646378253116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1487
+        width: 39
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5800a8eca7ca2fc0800000000000000
+      internalID: -3518780613385516965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1487
+        width: 39
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e85139f78ce860800000000000000
+      internalID: 7560567378792736134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1356
+        width: 53
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d0338fdc72aec0800000000000000
+      internalID: -3557143456248704245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1356
+        width: 47
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8419fbce2fec6520800000000000000
+      internalID: 2696793261157717130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1356
+        width: 30
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60062a4bac7cca600800000000000000
+      internalID: 480978933649661958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1356
+        width: 33
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c19e507f520700800000000000000
+      internalID: 505071044446503321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1356
+        width: 49
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6afba5ad7721dc0800000000000000
+      internalID: -3669738966644447582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1356
+        width: 48
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03e853d6dd73f180800000000000000
+      internalID: -9082777661853867249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1356
+        width: 53
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb93a1c20be54b0800000000000000
+      internalID: -5449724795606679647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1356
+        width: 46
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d239ab0148a73f70800000000000000
+      internalID: 9166980563857912532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1356
+        width: 30
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023122f023362e400800000000000000
+      internalID: 351952787541725984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1356
+        width: 36
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac2483949d86030800000000000000
+      internalID: 3488276819898190578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1356
+        width: 53
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561da64902e05ee30800000000000000
+      internalID: 4532044133110042981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1356
+        width: 49
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675e6a4c2147fc80800000000000000
+      internalID: -8289084930668996757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1226
+        width: 49
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ee534fd3131fc0800000000000000
+      internalID: -3525452233672038475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1226
+        width: 50
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2456996a75b77e40800000000000000
+      internalID: 5654187394549044271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1226
+        width: 48
+        height: 101
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1920a4f8e21d7e0800000000000000
+      internalID: -1742560387858787897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1228
+        width: 50
+        height: 97
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c914314ee8290540800000000000000
+      internalID: 4974552267168684488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1226
+        width: 49
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5a257a0847e980800000000000000
+      internalID: -8509753761140680136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1225
+        width: 58
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce51e6f3bdf58ff0800000000000000
+      internalID: -34342472752472378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_47
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1085
+        width: 37
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbff9a8376f52a220800000000000000
+      internalID: 2495662040453611453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_48
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1085
+        width: 37
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a22a32ad3ca4e960800000000000000
+      internalID: 7630413049387164328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1085
+        width: 37
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121203b5ebfec8b0800000000000000
+      internalID: -5129885961559076327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_50
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1085
+        width: 37
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884f6985d57ef8d0800000000000000
+      internalID: -2810679557438355320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1085
+        width: 37
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dcf7e9db600ea40800000000000000
+      internalID: 5395319765067615584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_52
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1085
+        width: 41
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207730051b4e56a0800000000000000
+      internalID: -6458642262032682966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1085
+        width: 49
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ca105bca5bae9b0800000000000000
+      internalID: -5050024278766801871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1085
+        width: 53
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7417df13c26be0800000000000000
+      internalID: -1485410385558995909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1085
+        width: 55
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72bd934c8bb75f0800000000000000
+      internalID: -757808959358031921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1085
+        width: 61
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8597c9d147c4dbe0800000000000000
+      internalID: -1453317694093290102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 948
+        width: 80
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c110fee75e1465d0800000000000000
+      internalID: -3070295682940137022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 948
+        width: 58
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f57f2c4299a730800000000000000
+      internalID: 4010897799061567403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 948
+        width: 52
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe1a02819fa7d570800000000000000
+      internalID: 8491448661917179642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 948
+        width: 45
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c93a86f828dc80800000000000000
+      internalID: -8297837274084032119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_61
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 948
+        width: 52
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc07752e7638e19d0800000000000000
+      internalID: -2801657435975618357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_62
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 948
+        width: 56
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017d842121a622d0800000000000000
+      internalID: -3303776112910438144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 948
+        width: 61
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb6cb9034f7f230800000000000000
+      internalID: 3672672510753029124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 818
+        width: 92
+        height: 98
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841072f215c2a5180800000000000000
+      internalID: -9125932967717830328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 818
+        width: 60
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2655ef88bc9ed40800000000000000
+      internalID: 5614242199737033455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 818
+        width: 55
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe7833fbabb6c1e0800000000000000
+      internalID: -2177847022592688452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_67
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 818
+        width: 55
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d95013fcfd8650800000000000000
+      internalID: 6236919179859579979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 814
+        width: 67
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a4e90705cbfca90800000000000000
+      internalID: -7291402218016716211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_69
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 814
+        width: 67
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143bfad7019619b10800000000000000
+      internalID: 1986484430196159297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_70
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 816
+        width: 95
+        height: 102
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4d6e131d7a00f0800000000000000
+      internalID: -1149969233771410552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_71
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 814
+        width: 62
+        height: 104
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd25a0c72e96fd0800000000000000
+      internalID: -2348096708319978750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_72
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 813
+        width: 55
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e219c85a98bc0e0800000000000000
+      internalID: -2248552244820496890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 704
+        width: 55
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fda3a167d58a8d0800000000000000
+      internalID: -2834913203602137339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 704
+        width: 64
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2941076383c8a7f30800000000000000
+      internalID: 4574122544607532178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_75
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 704
+        width: 67
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed99a1b8a69618a0800000000000000
+      internalID: -6334710174570668575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 569
+        width: 109
+        height: 121
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d87c0e69f730a0800000000000000
+      internalID: -6901773652871030716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 656
+        width: 18
+        height: 26
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124eba8c0c52689d0800000000000000
+      internalID: -2772487010669304799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 561
+        width: 133
+        height: 133
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418beaf95e100130800000000000000
+      internalID: 3530855479669129538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 660
+        width: 18
+        height: 26
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c6c138e0ef02b0800000000000000
+      internalID: -5616022922435575715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_80
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 570
+        width: 124
+        height: 117
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0623052a390e630800000000000000
+      internalID: 3954322798170759381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_81
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 562
+        width: 47
+        height: 44
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa226686c57d19c30800000000000000
+      internalID: 4364506305787208362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_82
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 595
+        width: 41
+        height: 39
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b3752f3612d480800000000000000
+      internalID: -8876007455126735219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_83
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 561
+        width: 61
+        height: 62
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da4bf81b1a4d3b0800000000000000
+      internalID: -5488584261865525939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_84
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 596
+        width: 41
+        height: 39
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe6f9f39c847030800000000000000
+      internalID: 3491570178300767181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_85
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 436
+        width: 66
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394705c8e31bfff0800000000000000
+      internalID: -1385484424623813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 436
+        width: 91
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005748cc3e1349ca0800000000000000
+      internalID: -6011124748174199552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_87
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 436
+        width: 135
+        height: 101
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0aa79d855fce30800000000000000
+      internalID: 4525930217153892143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_88
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 436
+        width: 93
+        height: 97
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1af848507702d0800000000000000
+      internalID: -3312555476423926283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 436
+        width: 140
+        height: 106
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7237613e50871f0800000000000000
+      internalID: -1047080440471279671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_90
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 439
+        width: 69
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207cf670fdf7df70800000000000000
+      internalID: 9212110772039872552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_91
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553649eab502b7ac0800000000000000
+      internalID: -3856453077769624747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fcbed1b89c49720800000000000000
+      internalID: 2852126063371997034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 398
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addac95c77ca33a10800000000000000
+      internalID: 1888042299214835162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_94
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 399
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb6d6b7ef74a6c0800000000000000
+      internalID: -4133037924837573558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 346
+        width: 29
+        height: 70
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18350e9b5f3ea2b30800000000000000
+      internalID: 4263470641784574849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_96
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 308
+        width: 70
+        height: 121
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea500cc327a7d270800000000000000
+      internalID: 8275266612504845031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 403
+        width: 13
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23807af6778d72d00800000000000000
+      internalID: 947964254070704178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_98
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 350
+        width: 29
+        height: 69
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d619190214b700800000000000000
+      internalID: 555088484358346515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_99
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 311
+        width: 70
+        height: 117
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3969a650c86de50800000000000000
+      internalID: 6833803439472284669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_100
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 371
+        width: 22
+        height: 20
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab33197c6564c620800000000000000
+      internalID: 2793469185438727084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_101
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 384
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745c8f1ac9ecdd00800000000000000
+      internalID: 998930271691363454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_102
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 388
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7add86be1b49ce0800000000000000
+      internalID: -1399297959570593795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 369
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e21189239dc3690800000000000000
+      internalID: -7620977658094866827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_104
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 373
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e350061d80f070800000000000000
+      internalID: 8138159652292781039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_105
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 321
+        width: 44
+        height: 49
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7ca09e386b0700800000000000000
+      internalID: 507614000933796374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_106
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 357
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b77844c6788fc0800000000000000
+      internalID: -3492410925624346275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_107
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 350
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38593b83fc8c6b3d0800000000000000
+      internalID: -3191142493610338941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_108
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 361
+        width: 14
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b412535a274424710800000000000000
+      internalID: 1675977270523928907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_109
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 346
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72a741a9abc353c0800000000000000
+      internalID: -4371926883830881665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_110
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 321
+        width: 39
+        height: 28
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c046d6bb09b22d0800000000000000
+      internalID: -3302386767077569480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_111
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 335
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05afd3bfdd85980800000000000000
+      internalID: -8549839821416541958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_112
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 324
+        width: 39
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc422e7fe4a0250800000000000000
+      internalID: 5911624287435149258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_113
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 325
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab972ebdc0a54470800000000000000
+      internalID: 8378279487311682471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 331
+        width: 13
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b952a089588450800000000000000
+      internalID: 6091216905033069265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_115
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 327
+        width: 12
+        height: 14
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c797518b44eadd0800000000000000
+      internalID: -2472963587954869099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_116
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978945e6baafb7710800000000000000
+      internalID: 1692221699205142649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 192
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e79c0ad850365e0800000000000000
+      internalID: -1917682910483612149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_118
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 191
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d36e9489cdb5f0800000000000000
+      internalID: -739213192388683303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_119
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 190
+        width: 43
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a5067cbfeac030800000000000000
+      internalID: 3515886051829065405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_120
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 191
+        width: 167
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5246913, y: 0.46278325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587594e1ee02295f0800000000000000
+      internalID: -751501980735023227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_121
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 187
+        width: 147
+        height: 120
+      alignment: 9
+      pivot: {x: 0.47029996, y: 0.4497574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f93d7d02e623180800000000000000
+      internalID: -9137119606642335882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_122
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 37
+        width: 146
+        height: 121
+      alignment: 9
+      pivot: {x: 0.47797573, y: 0.47674763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ebe9ba85a53dc0800000000000000
+      internalID: -3659837106925345971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 41
+        width: 150
+        height: 97
+      alignment: 9
+      pivot: {x: 0.51875734, y: 0.48342574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518df2c411b2287a0800000000000000
+      internalID: -6376486769110558699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_124
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 33
+        width: 169
+        height: 139
+      alignment: 9
+      pivot: {x: 0.48572987, y: 0.46240827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6de6b59fe0c01c0800000000000000
+      internalID: -4536234260525295886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magna_sheet 2_125
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 183
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba8247f2a0049a0800000000000000
+      internalID: -6250985083861685342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

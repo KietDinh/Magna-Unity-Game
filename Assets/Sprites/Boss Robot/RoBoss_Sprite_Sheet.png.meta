@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: c475fe6609ba3404497f4b3a70783d4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3402705475768689149
+    second: RoBoss_Walking_7
+  - first:
+      213: 4367423896068204811
+    second: RoBoss_Walking_6
+  - first:
+      213: -8020278627577696752
+    second: RoBoss_Walking_5
+  - first:
+      213: -803952252203005241
+    second: RoBoss_Walking_4
+  - first:
+      213: 4638508592854991304
+    second: RoBoss_Walking_3
+  - first:
+      213: 2113018635606140110
+    second: RoBoss_Walking_2
+  - first:
+      213: -4969376115366739945
+    second: RoBoss_Walking_1
+  - first:
+      213: 2479754292107815595
+    second: RoBoss_Jump_6
+  - first:
+      213: 3915737847581679507
+    second: RoBoss_Jump_5
+  - first:
+      213: 7398758542609599734
+    second: RoBoss_Jump_4
+  - first:
+      213: -4774047897082368356
+    second: RoBoss_Jump_3
+  - first:
+      213: 2636576782176940076
+    second: RoBoss_Jump_2
+  - first:
+      213: -5575841786561650934
+    second: RoBoss_Jump_1
+  - first:
+      213: -5251211845666725799
+    second: RoBoss_Idle_1
+  - first:
+      213: 6708999149381857287
+    second: RoBoss_Bullet
+  - first:
+      213: -7527103854949085128
+    second: RoBoss_Electric_1
+  - first:
+      213: -8155252508424601785
+    second: RoBoss_Sprite_Sheet_16
+  - first:
+      213: 8571558296737900466
+    second: RoBoss_Sprite_Sheet_17
+  - first:
+      213: 7174229570084899960
+    second: RoBoss_Splash_Up_Left_1
+  - first:
+      213: -8291976641655864918
+    second: RoBoss_Splash_Up_Right_1
+  - first:
+      213: -2055368133096966330
+    second: RoBoss_Splash_Up_Left_2
+  - first:
+      213: 1407006230113255615
+    second: RoBoss_Splash_Up_Right_2
+  - first:
+      213: 2307856554176413713
+    second: RoBoss_Sprite_Sheet_22
+  - first:
+      213: 1916957522501749785
+    second: RoBoss_Sprite_Sheet_23
+  - first:
+      213: 4457740304296976350
+    second: RoBoss_Sprite_Sheet_24
+  - first:
+      213: 106774811176778682
+    second: RoBoss_Sprite_Sheet_25
+  - first:
+      213: -1811550519709121400
+    second: RoBoss_Sprite_Sheet_26
+  - first:
+      213: -354756969517915773
+    second: RoBoss_big_bullet
+  - first:
+      213: 1667108131843610862
+    second: RoBoss_Sprite_Sheet_28
+  - first:
+      213: -1871618310360777605
+    second: RoBoss_Electric_2
+  - first:
+      213: 2941468864532215463
+    second: RoBoss_Sprite_Sheet_30
+  - first:
+      213: 689062300972342235
+    second: RoBoss_Sprite_Sheet_31
+  - first:
+      213: 5577070544027842553
+    second: RoBoss_Sprite_Sheet_32
+  - first:
+      213: 6822818892524437019
+    second: RoBoss_Splash_Down_Left_1
+  - first:
+      213: -7376245817917718292
+    second: RoBoss_Splash_Down_Right_1
+  - first:
+      213: -3366179598789246980
+    second: RoBoss_Splash_Down_Left_2
+  - first:
+      213: 6561615168727316194
+    second: RoBoss_Splash_Down_Right_2
+  - first:
+      213: -1605389479268477969
+    second: RoBoss_Sprite_Sheet_37
+  - first:
+      213: -1971388907110893817
+    second: RoBoss_Sprite_Sheet_38
+  - first:
+      213: 2003415923839410401
+    second: RoBoss_Sprite_Sheet_39
+  - first:
+      213: 3877465359092005179
+    second: RoBoss_Sprite_Sheet_40
+  - first:
+      213: 5043800845230243489
+    second: RoBoss_Sprite_Sheet_41
+  - first:
+      213: 7774761828766030689
+    second: RoBoss_Sprite_Sheet_42
+  - first:
+      213: -4854985185286008415
+    second: RoBoss_Sprite_Sheet_43
+  - first:
+      213: 1778846964590870871
+    second: RoBoss_Sprite_Sheet_44
+  - first:
+      213: -6606735355455239317
+    second: RoBoss_Sprite_Sheet_45
+  - first:
+      213: 1188754870234333219
+    second: RoBoss_Sprite_Sheet_46
+  - first:
+      213: 256810050642247662
+    second: RoBoss_Sprite_Sheet_47
+  - first:
+      213: -6798006107829601696
+    second: RoBoss_Sprite_Sheet_48
+  - first:
+      213: -2097430296780258037
+    second: RoBoss_Sprite_Sheet_49
+  - first:
+      213: -3516305086049824682
+    second: RoBoss_Sprite_Sheet_50
+  - first:
+      213: 3785883494545470012
+    second: RoBoss_Sprite_Sheet_51
+  - first:
+      213: -8120967858458088413
+    second: RoBoss_Sprite_Sheet_52
+  - first:
+      213: -5481081481763509742
+    second: RoBoss_Sprite_Sheet_53
+  - first:
+      213: 9129165545604678497
+    second: RoBoss_Sprite_Sheet_54
+  - first:
+      213: 2387416149836568033
+    second: RoBoss_Sprite_Sheet_55
+  - first:
+      213: -1573109245304830621
+    second: RoBoss_Sprite_Sheet_56
+  - first:
+      213: -5044907558105081687
+    second: RoBoss_Sprite_Sheet_57
+  - first:
+      213: -7012333170412007920
+    second: RoBoss_Sprite_Sheet_58
+  - first:
+      213: 1466321836339962266
+    second: RoBoss_Sprite_Sheet_59
+  - first:
+      213: -1984245865931009599
+    second: RoBoss_Sprite_Sheet_60
+  - first:
+      213: -1152871317281510434
+    second: RoBoss_Sprite_Sheet_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoBoss_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1080
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed789e56927c0d0800000000000000
+      internalID: -3402705475768689149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1079
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09a2b4d4e43c9c30800000000000000
+      internalID: 4367423896068204811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1079
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ee29bd41f32b090800000000000000
+      internalID: -8020278627577696752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1078
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8017afa9c7d4f0800000000000000
+      internalID: -803952252203005241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1079
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c108b44dfa4f5040800000000000000
+      internalID: 4638508592854991304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1080
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4a51bf043f25d10800000000000000
+      internalID: 2113018635606140110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1079
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710414080ca390bb0800000000000000
+      internalID: -4969376115366739945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 955
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa265fe36bd96220800000000000000
+      internalID: 2479754292107815595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 953
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f98ae63de775630800000000000000
+      internalID: 3915737847581679507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 950
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc127b1bbada660800000000000000
+      internalID: 7398758542609599734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 954
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e64b94bbc2fbdb0800000000000000
+      internalID: -4774047897082368356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 954
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f2bc3d90079420800000000000000
+      internalID: 2636576782176940076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 954
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f963cef61ae92b0800000000000000
+      internalID: -5575841786561650934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 954
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21.5, y: 53.5}
+        - {x: 8.5, y: 42.5}
+        - {x: -3.5, y: 41.5}
+        - {x: -15.5, y: 40.5}
+        - {x: -20.5, y: 29.5}
+        - {x: -13.5, y: 19.5}
+        - {x: -15.5, y: 17.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -12.5, y: 12.5}
+        - {x: -7.5, y: 3.5}
+        - {x: -11.5, y: 2.5}
+        - {x: -10.5, y: -2.5}
+        - {x: -11.5, y: -10.5}
+        - {x: -13.5, y: -13.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -17.5, y: -19.5}
+        - {x: -29.5, y: -32.5}
+        - {x: -31.5, y: -33.5}
+        - {x: -29.5, y: -37.5}
+        - {x: -23.5, y: -37.5}
+        - {x: -17.5, y: -30.5}
+        - {x: -12.5, y: -30.5}
+        - {x: -8.5, y: -33.5}
+        - {x: -5.5, y: -34.5}
+        - {x: -5.5, y: -37.5}
+        - {x: -7.5, y: -37.5}
+        - {x: -7.5, y: -40.5}
+        - {x: -9.5, y: -42.5}
+        - {x: -11.5, y: -46.5}
+        - {x: -15.5, y: -49.5}
+        - {x: -18.5, y: -52.5}
+        - {x: -21.5, y: -50.5}
+        - {x: -22.5, y: -53.5}
+        - {x: 11.5, y: -53.5}
+        - {x: 11.5, y: -50.5}
+        - {x: 6.5, y: -47.5}
+        - {x: 3.5, y: -46.5}
+        - {x: 3.5, y: -42.5}
+        - {x: 5.5, y: -41.5}
+        - {x: 6.5, y: -36.5}
+        - {x: 9.5, y: -34.5}
+        - {x: 10.5, y: -31.5}
+        - {x: 9.5, y: -28.5}
+        - {x: 2.5, y: -27.5}
+        - {x: 2.5, y: -25.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 11.5, y: -12.5}
+        - {x: 16.5, y: -0.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 28.5, y: 3.5}
+        - {x: 29.5, y: 4.5}
+        - {x: 30.5, y: 8.5}
+        - {x: 31.5, y: 8.5}
+        - {x: 31.5, y: 12.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 28.5, y: 19.5}
+        - {x: 27.5, y: 19.5}
+        - {x: 26.5, y: 26.5}
+        - {x: 24.5, y: 28.5}
+        - {x: 21.5, y: 28.5}
+        - {x: 18.5, y: 29.5}
+        - {x: 18.5, y: 32.5}
+        - {x: 17.5, y: 32.5}
+        - {x: 17.5, y: 33.5}
+        - {x: 19.5, y: 33.5}
+        - {x: 20.5, y: 32.5}
+        - {x: 21.5, y: 32.5}
+        - {x: 21.5, y: 30.5}
+        - {x: 23.5, y: 30.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 25.5, y: 33.5}
+        - {x: 26.5, y: 38.5}
+        - {x: 17.5, y: 39.5}
+        - {x: 16.5, y: 41.5}
+        - {x: 24.5, y: 53.5}
+      - - {x: 18.5, y: 5.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 21.5, y: 8.5}
+        - {x: 21.5, y: 14.5}
+        - {x: 20.5, y: 14.5}
+        - {x: 20.5, y: 17.5}
+        - {x: 22.5, y: 20.5}
+        - {x: 23.5, y: 20.5}
+        - {x: 23.5, y: 19.5}
+        - {x: 25.5, y: 19.5}
+        - {x: 25.5, y: 18.5}
+        - {x: 26.5, y: 18.5}
+        - {x: 26.5, y: 17.5}
+        - {x: 27.5, y: 17.5}
+        - {x: 27.5, y: 15.5}
+        - {x: 28.5, y: 15.5}
+        - {x: 28.5, y: 7.5}
+        - {x: 27.5, y: 5.5}
+        - {x: 26.5, y: 4.5}
+        - {x: 25.5, y: 4.5}
+        - {x: 25.5, y: 3.5}
+        - {x: 23.5, y: 3.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 18.5, y: 2.5}
+        - {x: 18.5, y: 3.5}
+        - {x: 17.5, y: 4.5}
+      - - {x: 17.5, y: 35.5}
+        - {x: 17.5, y: 35.5}
+        - {x: 17.5, y: 35.5}
+        - {x: 17.5, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95026b206a2ff17b0800000000000000
+      internalID: -5251211845666725799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Bullet
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 390
+        width: 36
+        height: 17
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700bd493e272b1d50800000000000000
+      internalID: 6708999149381857287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Up_Left_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 393
+        width: 22
+        height: 27
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c830688cbff8360800000000000000
+      internalID: 7174229570084899960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Up_Right_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 381
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1044c5d2bfcec80800000000000000
+      internalID: -8291976641655864918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Up_Left_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 393
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f810a29dd973e0800000000000000
+      internalID: -2055368133096966330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Up_Right_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 385
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb089ae26b0b68310800000000000000
+      internalID: 1407006230113255615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 361
+        width: 123
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884401c76641cd6e0800000000000000
+      internalID: -1811550519709121400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_big_bullet
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 345
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816a427a66a31bf0800000000000000
+      internalID: -354756969517915773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 343
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee814b06302c22710800000000000000
+      internalID: 1667108131843610862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 318
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f2187c1cb56d40800000000000000
+      internalID: 5577070544027842553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Down_Left_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 321
+        width: 21
+        height: 27
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e3eb742a58fae50800000000000000
+      internalID: 6822818892524437019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Down_Right_1
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 314
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cd07728f42a990800000000000000
+      internalID: -7376245817917718292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Down_Left_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 332
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfffffb5d7de841d0800000000000000
+      internalID: -3366179598789246980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Splash_Down_Right_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 318
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e67ec42b3a8f0b50800000000000000
+      internalID: 6561615168727316194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 265
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae73c1452e2ff540800000000000000
+      internalID: 5043800845230243489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 228
+        width: 124
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b9dd8d0b085eb60800000000000000
+      internalID: 7774761828766030689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 186
+        width: 118
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15e3162b0af9cb0800000000000000
+      internalID: -4854985185286008415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Electric_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 330
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c34df101da606e0800000000000000
+      internalID: -1871618310360777605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoBoss_Electric_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830594a9cea5a8790800000000000000
+      internalID: -7527103854949085128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
